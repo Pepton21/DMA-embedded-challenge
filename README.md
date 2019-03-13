@@ -1,2 +1,2 @@
-# DMA-embedded-challenge
-MD5 hash verification as part of the embedded challenge organised by Seavus. Implementation was done on a LPC1769 microprocessor with the focus on using a DMA controller to read the flash memory.
+# DMA embedded challenge
+Implementation of **MD5 hash verification** as part of the embedded challenge organised by [Seavus](https://seavus.com/). Implementation was done on a **LPC1769 microprocessor** with the focus on using a **DMA controller** to read the **flash memory**. The work was done for a student project as part of the Microprocessors course at the [Faculty of Computer Science and Engineering](https://finki.ukim.mk/en), [Ss. Cyril and Methodius University](http://www.ukim.edu.mk/en_index.php).
